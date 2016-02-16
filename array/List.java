@@ -33,6 +33,7 @@ class Fibonacci {
 		fibonacci_10.print();
 		fibonacci_5.print();
 		fibonacci_20.print();
+		System.out.println(a);
 	}
 }
 	
